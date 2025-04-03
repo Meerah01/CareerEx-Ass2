@@ -1,0 +1,92 @@
+nav{
+    background-color: #e0aeae;
+    height: 50px;
+    padding: 20px;}
+
+nav ul li{
+    display: inline-block;
+    margin-left: 15px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+
+/* sections */
+    section{
+        border: 2px solid chartreuse;
+        background-color: orange;
+        margin: 10px;  
+        padding: 10px;
+        height: 700px;
+    }
+    .sect2{
+        border:5px dotted aqua;
+         background-color: limegreen;
+         margin: 15px;
+         padding: 15px;
+         height: 700px;
+         
+     }
+     .sect3{
+        border:7px solid rgb(235, 92, 150);
+        background-color: skyblue;
+        margin: 20px;
+        padding: 20px;
+        height: 1000px;
+    }
+
+
+        /* headers */
+    section h2{
+        color: forestgreen;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 60px;
+    }
+    .sect2 h2{
+        color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 70px;
+    }
+    #h2c{
+        color: rgb(15, 13, 13);
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 90px;
+    }
+
+
+        /* paragraphs */
+    section p{
+        color: bisque;
+        font-size: 30px;}
+    .sect2 p{
+        color: aquamarine;
+        font-size: 35px;}    
+    #paragraph3{
+        color: blueviolet;
+        font-size: 40px;}
+
+
+        /* IMAGES */
+    section img{ width: 300px; }    
+    .sect2 img{ width: 350px; }   
+    .sect3 img{ width: 250px; }
+        
+       
+                /* buttons */
+        .btn1{
+            color: coral;
+            width: 500px;}  
+        .btn2{
+            color: violet;
+            width: 600px;}  
+        .btn3{
+            color: navy;
+            width: 700px;} 
+            
+            
+            
+            
+
+        
